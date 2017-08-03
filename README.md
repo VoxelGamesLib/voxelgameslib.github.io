@@ -1,1 +1,3 @@
-# voxelgameslib.github.io
+# VoxelGamesLib
+
+Hey there, there is not index page yet, checkout the docs: https://voxelgameslib.com/docs/
